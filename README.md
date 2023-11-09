@@ -182,6 +182,12 @@ var clbks = callbacks( table, sigs );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/strided-base/mskunary-dtype-signatures`][@stdlib/strided/base/mskunary-dtype-signatures]</span><span class="delimiter">: </span><span class="description">generate a list of masked unary interface signatures from strided array data types.</span>
+
 </section>
 
 <!-- /.related -->
@@ -255,7 +261,13 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/strided-base-mskunary-signature-callbacks/main/LICENSE
 
-[@stdlib/ndarray/promotion-rules]: https://github.com/stdlib-js/stdlib
+[@stdlib/ndarray/promotion-rules]: https://github.com/stdlib-js/ndarray-promotion-rules
+
+<!-- <related-links> -->
+
+[@stdlib/strided/base/mskunary-dtype-signatures]: https://github.com/stdlib-js/strided-base-mskunary-dtype-signatures
+
+<!-- </related-links> -->
 
 </section>
 
